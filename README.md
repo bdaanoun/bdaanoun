@@ -120,7 +120,3 @@ I build intelligent applications, scalable backend systems, and AI-powered web p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bilal-daanouni-a5a22a236/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:daanouni.bilal@yahoo.com)
-
----
-
-> “Strong fundamentals and deep understanding create better software.”
