@@ -105,17 +105,6 @@ I build intelligent applications, scalable backend systems, and AI-powered web p
 
 ---
 
-# 📌 Featured Project Ideas
-
-* 🤖 GitHub Profile RAG AI Assistant
-* 📄 AI PDF Chat Application
-* 🧠 Neural Network From Scratch
-* 🎯 Recommendation System
-* 📊 Machine Learning Prediction Projects
-* ⚡ Real-Time AI Chat Applications
-
----
-
 # 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bilal-daanouni-a5a22a236/)
